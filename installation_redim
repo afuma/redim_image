@@ -28,9 +28,15 @@ Une fois l'installation terminée, vous pouvez vérifier si Python a été insta
 
 --------------------------------------------------------------------------------------------------------------------------
 
-ETAPE 2: executer redim.py:
+ETAPE 2: Executer "redim.py":
 
 - Sur le bureau, créer un dossier photos. (c'est dans ce dossier que tu mettras toutes les photos que tu veux m'envoyer)
-- Dans ce dossier, clique droit -> ouvrir un terminal
-- exécuter cette ligne: "git clone nom_du_git redim"
-- exécuter cette ligne: "python3 redim.py"
+- Aller sur cette page: https://github.com/afuma/redim_image
+- Cliquez sur "redim.py"
+  - tu arriveras sur une nouvelle page
+  - copie tout le code (ctrl + C)
+  - crée un fichier que tu appelles "redim.py" dans ton dossier "photos"
+  - colle tout le code dans ce fichier "redim.py" (ctrl + V)
+- Dans ce dossier "photos", clique droit -> ouvrir un terminal
+- Ecrire cette ligne: "python3 redim.py"
+- Puis éxécuter cette ligne en tapant sur "Entrée"
