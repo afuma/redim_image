@@ -1,0 +1,25 @@
+comment telecharger la derniere version de python sur windows
+
+PREREQUIS:
+  Pour savoir si votre système d'exploitation est en 32 bits ou 64 bits, vous pouvez suivre ces étapes :
+  
+  Sur Windows :
+  Cliquez sur le bouton Démarrer (l'icône Windows) dans la barre des tâches.
+  Faites un clic droit sur "Ordinateur" (ou "Ce PC" pour les versions plus récentes de Windows) et sélectionnez "Propriétés".
+  Dans la fenêtre des propriétés système qui s'ouvre, vous verrez les informations sur votre système. La section "Type du système" indique si votre système d'exploitation est en 32 bits ou 64 bits.
+
+Pour télécharger la dernière version de Python sur Windows, suivez ces étapes :
+
+- Rendez-vous sur le site officiel de Python à l'adresse suivante : https://www.python.org/downloads/
+Sur la page des téléchargements, vous verrez différentes versions de Python disponibles. La dernière version stable sera généralement affichée en haut de la liste. Assurez-vous de télécharger la version correspondant à votre système d'exploitation (32 bits ou 64 bits) et à votre préférence (par exemple, Python 3.10.0).
+
+- Cliquez sur le lien de téléchargement correspondant à votre système d'exploitation. Par exemple, si vous utilisez Windows 64 bits,
+- cliquez sur le lien "Windows installer (64-bit)".
+
+- Une fois le téléchargement terminé, ouvrez le fichier d'installation téléchargé (par exemple, python-3.10.0-amd64.exe).
+
+Dans l'assistant d'installation de Python, assurez-vous de cocher la case "Add Python x.x to PATH" (Ajouter Python x.x au PATH). Cela permettra d'ajouter Python à la variable d'environnement PATH, ce qui vous permettra d'exécuter Python depuis n'importe quel répertoire dans l'invite de commande.
+
+Continuez avec l'installation en suivant les instructions de l'assistant.
+
+Une fois l'installation terminée, vous pouvez vérifier si Python a été installé avec succès en ouvrant l'invite de commande (ou PowerShell) et en tapant python --version. Vous devriez voir la version de Python installée affichée.
