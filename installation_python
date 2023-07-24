@@ -23,3 +23,9 @@ Dans l'assistant d'installation de Python, assurez-vous de cocher la case "Add P
 Continuez avec l'installation en suivant les instructions de l'assistant.
 
 Une fois l'installation terminée, vous pouvez vérifier si Python a été installé avec succès en ouvrant l'invite de commande (ou PowerShell) et en tapant python --version. Vous devriez voir la version de Python installée affichée.
+
+Pour executer redim.py:
+Sur le bureau, créer un dossier photos. (c'est dans ce dossier que tu mettras toutes les photos que tu veux m'envoyer)
+Dans ce dossier, clique droit - > ouvrir un terminal
+exécuter cette ligne: "git clone nom_du_git redim"
+exécuter cette ligne: "python3 redim.py"
