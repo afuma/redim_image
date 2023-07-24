@@ -29,7 +29,8 @@ Une fois l'installation terminée, vous pouvez vérifier si Python a été insta
 --------------------------------------------------------------------------------------------------------------------------
 
 ETAPE 2: executer redim.py:
-Sur le bureau, créer un dossier photos. (c'est dans ce dossier que tu mettras toutes les photos que tu veux m'envoyer)
-Dans ce dossier, clique droit -> ouvrir un terminal
-exécuter cette ligne: "git clone nom_du_git redim"
-exécuter cette ligne: "python3 redim.py"
+
+- Sur le bureau, créer un dossier photos. (c'est dans ce dossier que tu mettras toutes les photos que tu veux m'envoyer)
+- Dans ce dossier, clique droit -> ouvrir un terminal
+- exécuter cette ligne: "git clone nom_du_git redim"
+- exécuter cette ligne: "python3 redim.py"
