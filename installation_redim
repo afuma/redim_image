@@ -8,6 +8,8 @@ PREREQUIS:
   Faites un clic droit sur "Ordinateur" (ou "Ce PC" pour les versions plus récentes de Windows) et sélectionnez "Propriétés".
   Dans la fenêtre des propriétés système qui s'ouvre, vous verrez les informations sur votre système. La section "Type du système" indique si votre système d'exploitation est en 32 bits ou 64 bits.
 
+--------------------------------------------------------------------------------------------------------------------------
+
 Pour télécharger la dernière version de Python sur Windows, suivez ces étapes :
 
 - Rendez-vous sur le site officiel de Python à l'adresse suivante : https://www.python.org/downloads/
@@ -23,6 +25,8 @@ Dans l'assistant d'installation de Python, assurez-vous de cocher la case "Add P
 Continuez avec l'installation en suivant les instructions de l'assistant.
 
 Une fois l'installation terminée, vous pouvez vérifier si Python a été installé avec succès en ouvrant l'invite de commande (ou PowerShell) et en tapant python --version. Vous devriez voir la version de Python installée affichée.
+
+--------------------------------------------------------------------------------------------------------------------------
 
 ETAPE 2: executer redim.py:
 Sur le bureau, créer un dossier photos. (c'est dans ce dossier que tu mettras toutes les photos que tu veux m'envoyer)
